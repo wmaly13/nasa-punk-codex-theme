@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.pyc
+*.exe
+*.log
+state.json
+installation.json

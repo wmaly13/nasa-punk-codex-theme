@@ -1,0 +1,121 @@
+[data-ds-part="root"] {
+  background-color: #ECE5D6FF;
+  color: #20262A;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+[data-ds-part="sidebar"] {
+  background-color: #E4DDCEFF;
+  color: #20262A;
+  border-right-color: #B9B1A0;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-radius: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+[data-ds-part="main"] {
+  background-color: #ECE5D6FF;
+  color: #20262A;
+  border-radius: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+[data-ds-part="header"] {
+  background-color: #20262AFF;
+  color: #ECE5D6;
+  border-bottom-color: #B9B1A0;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+[data-ds-part="home"] {
+  background-color: #ECE5D6FF;
+  color: #20262A;
+  border-radius: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+[data-ds-part="home-hero"] {
+  color: #20262A;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+[data-ds-part="project-list"] {
+  color: #20262A;
+  border-radius: 0;
+}
+
+[data-ds-part="project-list"]:hover {
+  border-color: #D63A2C;
+}
+
+[data-ds-part="thread"] {
+  background-color: transparent;
+  color: #20262A;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
+  border-radius: 0;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+[data-ds-part="message"] {
+  border-width: 0;
+  background-color: transparent;
+  color: #20262A;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.7;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+[data-ds-part="composer"] {
+  background-color: #F2ECDFFF;
+  color: #20262A;
+  border-color: #B9B1A0;
+  border-style: solid;
+  border-width: 1px;
+  border-top-color: #20262A;
+  border-top-width: 2px;
+  border-radius: 2px;
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
+[data-ds-part="composer"]:focus-visible {
+  border-color: #D63A2C;
+}
+
+[data-ds-part="composer-toolbar"] {
+  background-color: #F2ECDFFF;
+  color: #51565A;
+  border-top-color: #B9B1A0;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-radius: 0;
+  gap: 8px;
+}
+
+[data-ds-part="dialog"] {
+  background-color: #F2ECDFFF;
+  color: #20262A;
+  border-color: #B9B1A0;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  box-shadow: none;
+  backdrop-filter: none;
+}

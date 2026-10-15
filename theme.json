@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "nasa-punk-device-light",
+  "name": "NASA 朋克 · 航天面板",
+  "brandSubtitle": "PROGRESSIVE FUTURISM",
+  "tagline": "未来曾被认真设计过。",
+  "projectPrefix": "项目 · ",
+  "projectLabel": "选择项目",
+  "statusText": "NASA PUNK / LIGHT",
+  "quote": "A FUTURE WORTH BUILDING",
+  "image": "background.png",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.78,
+    "focusY": 0.45,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#ECE5D6FF",
+    "panel": "#E4DDCEFF",
+    "panelAlt": "#F2ECDFFF",
+    "accent": "#D63A2C",
+    "accentAlt": "#A8432F",
+    "secondary": "#4C5A68",
+    "highlight": "#D63A2C",
+    "text": "#20262A",
+    "muted": "#51565A",
+    "line": "#B9B1A0"
+  }
+}
